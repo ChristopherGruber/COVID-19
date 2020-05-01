@@ -1,0 +1,9 @@
+This iPython notebook file documents how to:
+	- Find the COVID-19 case count data online
+	- Read in the data and process it for use with an LSTM neural network model
+	- Build an LSTM and evaluate its performance
+	- Compare predictions to the actual case counts from the recent past
+	
+To use the code:
+	- Download the Anaconda platform, which contains the iPython development environment as well as all packages needed
+	- Alternatively, download Jupyter and all packages through a Terminal application
